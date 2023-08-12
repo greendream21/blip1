@@ -10,7 +10,7 @@
   "dependencies": {
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "react-scripts": "3.4.4"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "typescript": "3.9.10"
